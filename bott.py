@@ -10,7 +10,7 @@ logging.basicConfig(
 
 import asyncio
 
-bot_token = '7289346039:AAHdJxkSModalZ3JsUJEJMmEnyAP5t-Cpuo'
+bot_token = 'Bot_token'
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
