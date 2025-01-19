@@ -84,7 +84,7 @@ from time import sleep
        # sleep(60)
 
 if __name__ == '__main__':
-    application = ApplicationBuilder().token('7289346039:AAHdJxkSModalZ3JsUJEJMmEnyAP5t-Cpuo').build()
+    application = ApplicationBuilder().token('BOT_TOKEN').build()
     
 
     application.add_handler(ConversationHandler(
